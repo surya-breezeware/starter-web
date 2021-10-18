@@ -1,0 +1,63 @@
+java web projects for computer science(CS) students. Below is the list of the java web project. When you open the link you will get the complete description of the project. How to build a Java web application. How to configure a Java web project in your system. requirements that you need before configure a java web application.
+
+List of available java web project with source code 
+E-commerce project in java with source code and project report.
+Online Pharmacy Management System Java web project with source code and report.
+Home Improvement System Java web project with source code and report.
+Jewelry Shop Management Java web project with source code and report.
+Student management system Java web project with source code and report.
+Hotel management project Java web project with source code and report.
+Hospital management system Java web project with source code and report.
+Online bike service booking Java web project with source code and report.
+Online Food Delivery project Java web project with source code and report.
+Online Movie ticket booking project in java with source code.
+Bank management system project in java with source code and project report.
+Online flight booking project in java with source code and report.
+Online book shop project in java with source code and report.
+CGPA Calculator project in java with source code and project report.
+Hostel management project in java using MVC.
+Timetable management project in java.
+Photo Competition project in java.
+Online Examination System project in java.
+Gym Management project in java with source code.
+Online Quiz project in java with source code.
+Employee management system project in java with source code.
+Employee payroll management system project in java with source code.
+Library management system project in java with source code.
+Online Job portal project In java with source code.
+Blood bank management system project in java.
+Online Hotel Booking project in java.
+Postal Services Management project in java.
+NGO management project in java.
+Online voting system project in java.
+Online Hostel management project in java.
+Online bookstore project in java.
+School Management system project in java.
+Blood Bank Management system project in java.
+Online grocery shop project in java with source code
+Hostel Management system project in java with source code
+Attendance Management System in Java with source code.
+Online fashion store project in java
+Airline reservation project in java
+Online Electricity bill management project in java
+Project management System in Java with source code
+Online tourism management project in java with source code
+Inventory Management Project in Java
+Turf booking project in Java
+NGO Management Project in java Updated
+Restaurant Management Project in Java
+Online Farming Management Project in Java
+Online Survey Project in java
+Online sports shop Project in java
+Online Fruit and Vegetables Shop Project in Java 
+Online Furniture Shopping Project in JAVA 
+Campus Placemen Management Project in java
+RTO Management Ststem Project in java
+Online Product Selling Project in java using Jsp and servlet
+E-Learning Project using JSP and Servlet
+Insurance Management Project in Java using JSP and Servlet
+Online Bus Ticket booking project in Java using JSP and Servlet
+Blood Donation Project in Java Using JSP, Servlet and MYSQL
+Java web project with source code
+The video tutorial is also available for every java web application. In every separate tutorial, we are going to cover the functionality of the java project and the configuration of the java web application. In the list, you will find projects which are using multiple technologies, tools, and IDE like JSP, Servlet, MYSQL, HTML, CSS, Hibernate, Spring, Maven, Tomcat, Glassfish, Eclipse, STS tool, and Netbeans.
+

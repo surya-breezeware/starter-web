@@ -1,0 +1,6 @@
+Employee:  Employee is the main module of the application where new employees can register and login to the application and the employee can view his/her profile and can perform the crud operations like Edit and update his profile.
+Salary: Management can manage the salary of all the employees. Admin and management can perform all the crud operations form the salary module.
+Attendance: Employee can add their attendance and the admin and management can monitor the attendance of all the employees.
+TimeSheet: The manager or admin can add and assign the task to an employee and the employees and update their word status on a daily basis.
+Leave: Employees can add or apply for the leave and the manager or admin can approve or disapprove the applied leave at the same time employee can check the updated status.
+
